@@ -1,0 +1,2 @@
+# mygo
+learn go 
