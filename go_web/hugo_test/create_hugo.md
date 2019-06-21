@@ -6,3 +6,10 @@ https://wocai.de/page/2/
 https://tonybai.com/2015/09/23/intro-of-gohugo/
 https://github.com/rbind/yihui
 https://themes.gohugo.io/gohugo-theme-yinwang/
+
+很好的主题
+https://github.com/chingli/rockrock
+
+https://github.com/arschles/go-in-5-minutes/tree/master/www/content/blog
+
+https://uicard.io/blog/10-best-hugo-themes-2018/
